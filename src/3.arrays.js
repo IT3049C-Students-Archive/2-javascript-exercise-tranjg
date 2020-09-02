@@ -23,19 +23,18 @@ function filterOut(arr, item) {
 
 // Append: you should be able to add an item to the end of an array
 function append(arr, item) {
-
-  return ;
+  //return arr.push(item);
 }
 
 // Truncate: you should be able to remove the last item of an array
 // hint: pop, slice, splice would all work. Pay attention to the return value in the docs
 function truncate(arr) {
-  return ;
+  return arr.splice(0,2);
 }
 
 // Concat: you should be able to join together two arrays
 function concat(arr1, arr2) {
-  return ;
+  //return arr1.concat(arr2);
 }
 
 // Insert: you should be able to add an item at the specified index of an array
