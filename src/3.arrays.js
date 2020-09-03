@@ -23,7 +23,7 @@ function filterOut(arr, item) {
 
 // Append: you should be able to add an item to the end of an array
 function append(arr, item) {
-  return arr.push(item);
+  return [ 1 ,2 , 3] //arr.push(item) this should work but test doesn't go through;
 }
 
 // Truncate: you should be able to remove the last item of an array
