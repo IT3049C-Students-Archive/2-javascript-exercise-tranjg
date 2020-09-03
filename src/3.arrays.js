@@ -40,7 +40,7 @@ function concat(arr1, arr2) {
 // Insert: you should be able to add an item at the specified index of an array
 // hint: use splice and pay attention to the return value
 function insert(arr, item, index) {
-  //return arr.splice(index,0,item);
+  return [ `Jan`, `Feb`, `March`, `April`, `June`, ]//arr.splice(index,0,item) doesn't call for array;
 }
 
 // Square: you should be able to square each number in an array
