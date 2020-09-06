@@ -13,7 +13,7 @@
     "underscore": "1.8.x"
   },
   "devDependencies": {
-    "eslint": "^2.8.0",
+    "eslint": "^4.18.2",
     "simple-git": "^2.5.0",
     "line-replace": "^2.0.1"
   }
